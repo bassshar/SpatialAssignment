@@ -4,3 +4,5 @@ Question: When using git, how would you make sure that your work doesn't conflic
 Answer: Use different and meaningful commit messages and we should push and pull more often.
 Question: What are some good branching conventions?
 Branch name should be unique and instead of using spaces one should use hyphen to separate words and should avoid long names.
+Question: What are some good commit message conventions?
+Answer: Commit messages should be short and meaningful. Its good if commit messages are short and imperative.
