@@ -2,3 +2,5 @@ Question: Write the command for merging someone's code?
 Answer: git merge
 Question: When using git, how would you make sure that your work doesn't conflict with someone else's code when working on the same project in a team?
 Answer: Use different and meaningful commit messages and we should push and pull more often.
+Question: What are some good branching conventions?
+Branch name should be unique and instead of using spaces one should use hyphen to separate words and should avoid long names.
